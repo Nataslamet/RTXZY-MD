@@ -11,11 +11,11 @@ global.mods = ['6281395861695']
 global.prems = ['6281395861695']
 /*Nomor Owner & payment*/
 global.nameowner = 'Tio'
-global.numberowner = '6281395861695' 
+global.numberowner = '628991544516' 
 global.mail = 'tioclkp02@gmail.com' //enter your email 🗿
-global.dana = '6281395861695'
-global.pulsa = '6281395861695'
-global.gopay = '6281395861695'
+global.dana = '628991544516'
+global.pulsa = '628991544516'
+global.gopay = '628991544516'
 /*Nama Bot & Grouplink*/
 global.namebot = 'RTXZY-MD'
 global.gc = 'https://chat.whatsapp.com/Ln2vHjRrRayAbzalRMB56r'
