@@ -6,9 +6,9 @@ untuk lainya saran jangan
 di ubah bre nanti eror]]*/
 
 /*global owner*/
-global.owner = ['6281395861695']  
-global.mods = ['6281395861695'] 
-global.prems = ['6281395861695']
+global.owner = ['628991544516']  
+global.mods = ['628991544516'] 
+global.prems = ['628991544516']
 /*Nomor Owner & payment*/
 global.nameowner = 'Tio'
 global.numberowner = '628991544516' 
